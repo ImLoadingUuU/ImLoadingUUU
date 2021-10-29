@@ -59,4 +59,7 @@ You can use the website to generate badges: https://shields.io/
 
 ---
 
+**
+
+[![ImLoading's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImLoadingUuU)](https://github.com/anuraghazra/github-readme-stats)
 
