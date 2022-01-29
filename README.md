@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hello, I'm Loading!
+## Hello, I'm Loading!您好,我還在載入!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -10,11 +10,12 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 - I'm currently learning __Lua__
+- 我還在學 __Lua__
 
 ---
 
 **Languages and Tools:**
-
+**語言和好康的:**
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
